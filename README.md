@@ -11,6 +11,14 @@ A Certified Kubernetes Security Specialist is an accomplished Kubernetes practit
 
 Certified Kubernetes Security Specialist (CKS) candidates must have taken and passed the Certified Kubernetes Administrator (CKA) exam prior to attempting the CKS exam. The CKS may be scheduled but not taken until CKA certification has been achieved.
 
+## Exam Details
+
+This exam is an online, proctored, performance-based test that requires solving multiple tasks from a command line running Kubernetes. Candidates have 2 hours to complete the tasks.
+
+The exam is based on Kubernetes v1.19
+
+Certified Kubernetes Security Specialist (CKS) candidates must have taken and passed the Certified Kubernetes Administrator (CKA) exam prior to attempting the CKS exam. The CKS may be scheduled but not taken until CKA certification has been achieved.
+
 
 ## Table of Contents
 
@@ -20,6 +28,7 @@ Certified Kubernetes Security Specialist (CKS) candidates must have taken and pa
 1. [Minimize Microservice Vulerabilities](https://github.com/Evalle/CKS/blob/master/README.md#Minimize-Microservice-Vulnerabilities)
 1. [Supply Chain Security](https://github.com/Evalle/CKS/blob/master/README.md#Supply-Chain-Security)
 1. [Monitoring, Logging and Runtime Security](https://github.com/Evalle/CKS/blob/master/README.md#Monitoring-Logging-and-Runtime-Security)
+1. [Links](https://github.com/Evalle/CKS/blob/master/README.md#Links)
 
 ## Cluster Setup
 
@@ -66,3 +75,8 @@ Certified Kubernetes Security Specialist (CKS) candidates must have taken and pa
 - Perform deep analytical investigation and identification of bad actors within environment
 - Ensure immutability of containers at runtime
 - Use Audit Logs to monitor access
+
+## Links
+
+- [Exam info](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/?utm_source=lftraining&utm_medium=pr&utm_campaign=cks0720)
+- [Exam Curriculum (November 2020)](https://github.com/cncf/curriculum/blob/master/CKS_Curriculum_%20v1.19%20Coming%20Soon%20November%202020.pdf)
