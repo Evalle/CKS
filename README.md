@@ -33,7 +33,7 @@ Certified Kubernetes Security Specialist (CKS) candidates must have taken and pa
 ## Cluster Setup
 
 - [Use Network security policies to restrict cluster level access](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
-- Use CIS benchmark to review the security configuration of Kubernetes components (etcd, kubelet, kubedns, kubeapi)
+- [Use CIS benchmark to review the security configuration of Kubernetes components (etcd, kubelet, kubedns, kubeapi)](https://github.com/aquasecurity/kube-bench)
 - Properly set up Ingress objects with security control
 - Protect node metadata and endpoints
 - Minimize use of, and access to, GUI elements
