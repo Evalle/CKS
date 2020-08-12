@@ -55,7 +55,7 @@ Certified Kubernetes Security Specialist (CKS) candidates must have taken and pa
 
 ## Minimize Microservice Vulnerabilities
 
-- Setup appropriate OS level security domains e.g. using PSP, OPA, security contexts
+- Setup appropriate OS level security domains e.g. using [PSP](https://kubernetes.io/docs/concepts/policy/pod-security-policy/), [OPA](https://www.openpolicyagent.org/), [security contexts](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
 - Manage Kubernetes secrets
 - Use container runtime sandboxes in multi-tenant environments (e.g. gvisor, kata containers)
 - Implement pod to pod encryption by use of mTLS
