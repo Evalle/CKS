@@ -37,7 +37,7 @@ Certified Kubernetes Security Specialist (CKS) candidates must have taken and pa
 - Properly set up Ingress objects with security control
 - Protect node metadata and endpoints
 - Minimize use of, and access to, GUI elements
-- Verify platform binaries before deploying
+- Verify platform binaries before deploying, use md5 checks against [official binaries](https://github.com/kubernetes/kubernetes/releases)
 
 ## Cluster Hardening
 
