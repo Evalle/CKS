@@ -41,7 +41,7 @@ Certified Kubernetes Security Specialist (CKS) candidates must have taken and pa
 
 ## Cluster Hardening
 
-- Restrict access to Kubernetes API
+- [Restrict access to Kubernetes API](https://kubernetes.io/docs/reference/access-authn-authz/controlling-access/)
 - Use Role Based Access Controls to minimize exposure
 - Exercise caution in using service accounts e.g. disable defaults, minimize permissions on newly created ones
 - Update Kubernetes frequently
