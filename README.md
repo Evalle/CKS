@@ -9,7 +9,7 @@ The main idea is to provide links to every topic in each domain. Preference will
 
 A Certified Kubernetes Security Specialist is an accomplished Kubernetes practitioner (**as evidenced by holding the CKA credential**) who has demonstrated competence on a broad range of best practices for securing container-based applications and Kubernetes platforms during build, deployment and runtime.
 
-Certified Kubernetes Security Specialist (CKS) candidates must have taken and passed the Certified Kubernetes Administrator (CKA) exam prior to attempting the CKS exam. The CKS may be scheduled but not taken until CKA certification has been achieved.
+Certified Kubernetes Security Specialist (CKS) candidates must have taken and passed the [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/) exam prior to attempting the CKS exam. The CKS may be scheduled but not taken until CKA certification has been achieved.
 
 ## Exam Details
 
