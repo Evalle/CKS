@@ -76,7 +76,14 @@ Certified Kubernetes Security Specialist (CKS) candidates must have taken and pa
 - Ensure immutability of containers at runtime
 - Use Audit Logs to monitor access
 
-## Links
+## Useful Links
 
+### Courses
+- [Configuring and Managing Kubernetes Security](https://app.pluralsight.com/library/courses/configuring-managing-kubernetes-security/table-of-contents)
+
+### Info
 - [Exam info](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/?utm_source=lftraining&utm_medium=pr&utm_campaign=cks0720)
 - [Exam Curriculum (November 2020)](https://github.com/cncf/curriculum/blob/master/CKS_Curriculum_%20v1.19%20Coming%20Soon%20November%202020.pdf)
+
+
+
