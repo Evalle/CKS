@@ -80,6 +80,7 @@ Certified Kubernetes Security Specialist (CKS) candidates must have taken and pa
 
 ### Courses
 - [Configuring and Managing Kubernetes Security](https://app.pluralsight.com/library/courses/configuring-managing-kubernetes-security/table-of-contents)
+- [Kubernetes CKS 2020 Complete Course + Simulator (UDEMY)](https://www.udemy.com/course/certified-kubernetes-security-specialist/)
 
 ### Info
 - [Exam info](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/?utm_source=lftraining&utm_medium=pr&utm_campaign=cks0720)
