@@ -44,7 +44,7 @@ Certified Kubernetes Security Specialist (CKS) candidates must have taken and pa
 - [Restrict access to Kubernetes API](https://kubernetes.io/docs/reference/access-authn-authz/controlling-access/)
 - [Use Role Based Access Controls to minimize exposure](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
 - Exercise caution in using service accounts e.g. disable defaults, minimize permissions on newly created ones
-- Update Kubernetes frequently
+- [Update Kubernetes frequently](https://kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/)
 
 ## System Hardening
 
