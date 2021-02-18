@@ -15,7 +15,7 @@ Certified Kubernetes Security Specialist (CKS) candidates must have taken and pa
 
 This exam is an online, proctored, performance-based test that requires solving multiple tasks from a command line running Kubernetes. Candidates have 2 hours to complete the tasks.
 
-The exam is based on Kubernetes v1.19
+The exam is based on Kubernetes v1.20
 
 Certified Kubernetes Security Specialist (CKS) candidates must have taken and passed the Certified Kubernetes Administrator (CKA) exam prior to attempting the CKS exam. The CKS may be scheduled but not taken until CKA certification has been achieved.
 
