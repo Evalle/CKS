@@ -74,7 +74,7 @@ Certified Kubernetes Security Specialist (CKS) candidates must have taken and pa
 - Detect all phases of attack regardless where it occurs and how it spreads
 - Perform deep analytical investigation and identification of bad actors within environment
 - Ensure immutability of containers at runtime
-- Use Audit Logs to monitor access
+- [Use Audit Logs to monitor access](https://kubernetes.io/docs/tasks/debug-application-cluster/audit/)
 
 ## Useful Links
 
