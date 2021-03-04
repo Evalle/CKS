@@ -64,7 +64,7 @@ Certified Kubernetes Security Specialist (CKS) candidates must have taken and pa
 
 - [Minimize base image footprint](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 - Secure your supply chain: whitelist allowed registries, sign and validate images
-- Use static analysis of user workloads (e.g.Kubernetes resources, Docker files) - [kubesec](https://kubesec.io/), 
+- Use static analysis of user workloads (e.g.Kubernetes resources, Docker files) - [kubesec](https://kubesec.io/), [conftest](https://github.com/open-policy-agent/conftest)
 - Scan images for known vulnerabilities ([clair](https://coreos.com/clair/docs/latest/), [trivy](https://github.com/aquasecurity/trivy))
 
 ## Monitoring Logging and Runtime Security 
