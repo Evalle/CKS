@@ -50,7 +50,7 @@ Certified Kubernetes Security Specialist (CKS) candidates must have taken and pa
 
 - Minimize host OS footprint (reduce attack surface)
 - Minimize IAM roles
-- Minimize external access to the network
+- [Minimize external access to the network](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
 - Appropriately use kernel hardening tools such as [AppArmor](https://gitlab.com/apparmor), [seccomp](https://kubernetes.io/docs/tutorials/clusters/seccomp/)
 
 ## Minimize Microservice Vulnerabilities
