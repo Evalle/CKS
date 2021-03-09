@@ -63,7 +63,7 @@ Certified Kubernetes Security Specialist (CKS) candidates must have taken and pa
 ## Supply Chain Security
 
 - [Minimize base image footprint](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
-- Secure your supply chain: whitelist allowed registries, sign and validate images
+- [Secure your supply chain: whitelist allowed registries, sign and validate images](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/#imagepolicywebhook)
 - Use static analysis of user workloads (e.g.Kubernetes resources, Docker files) - [kubesec](https://kubesec.io/), [conftest](https://github.com/open-policy-agent/conftest)
 - Scan images for known vulnerabilities ([clair](https://coreos.com/clair/docs/latest/), [trivy](https://github.com/aquasecurity/trivy))
 
@@ -79,12 +79,12 @@ Certified Kubernetes Security Specialist (CKS) candidates must have taken and pa
 ## Useful Links
 
 ### Courses
+
 - [Configuring and Managing Kubernetes Security](https://app.pluralsight.com/library/courses/configuring-managing-kubernetes-security/table-of-contents)
 - [Kubernetes CKS 2020 Complete Course + Simulator (UDEMY)](https://www.udemy.com/course/certified-kubernetes-security-specialist/)
 
 ### Info
+
 - [Exam info](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/?utm_source=lftraining&utm_medium=pr&utm_campaign=cks0720)
 - [Exam Curriculum (November 2020)](https://github.com/cncf/curriculum/blob/master/CKS_Curriculum_%20v1.19%20Coming%20Soon%20November%202020.pdf)
-
-
-
+- 
