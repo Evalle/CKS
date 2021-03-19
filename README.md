@@ -58,7 +58,7 @@ Certified Kubernetes Security Specialist (CKS) candidates must have taken and pa
 - Setup appropriate OS level security domains e.g. using [PSP](https://kubernetes.io/docs/concepts/policy/pod-security-policy/), [OPA](https://www.openpolicyagent.org/), [security contexts](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
 - [Manage Kubernetes secrets](https://kubernetes.io/docs/concepts/configuration/secret/)
 - [Use container runtime sandboxes in multi-tenant environments](https://kubernetes.io/docs/concepts/containers/runtime-class/) (e.g. [gvisor](https://gvisor.dev/), [kata containers](https://katacontainers.io/))
-- Implement pod to pod encryption by use of mTLS
+- [Implement pod to pod encryption by use of mTLS](https://thenewstack.io/mutual-tls-microservices-encryption-for-service-mesh/)
 
 ## Supply Chain Security
 
