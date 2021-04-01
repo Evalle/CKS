@@ -31,7 +31,7 @@ Certified Kubernetes Security Specialist (CKS) candidates must have taken and pa
 1. [Minimize Microservice Vulerabilities](https://github.com/Evalle/CKS/blob/master/README.md#Minimize-Microservice-Vulnerabilities)
 1. [Supply Chain Security](https://github.com/Evalle/CKS/blob/master/README.md#Supply-Chain-Security)
 1. [Monitoring, Logging and Runtime Security](https://github.com/Evalle/CKS/blob/master/README.md#Monitoring-Logging-and-Runtime-Security)
-1. [Links](https://github.com/Evalle/CKS/blob/master/README.md#Links)
+1. [Useful Links](https://github.com/Evalle/CKS/blob/master/README.md#useful-inks)
 
 ## Cluster Setup
 
