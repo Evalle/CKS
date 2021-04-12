@@ -51,7 +51,7 @@ Certified Kubernetes Security Specialist (CKS) candidates must have taken and pa
 
 ## System Hardening
 
-- Minimize host OS footprint (reduce attack surface)
+- [Minimize host OS footprint (reduce attack surface)](https://blog.sonatype.com/kubesecops-kubernetes-security-practices-you-should-follow#:~:text=Reduce%20Kubernetes%20Attack%20Surfaces)
 - Minimize IAM roles - [AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html), [GCloud](https://cloud.google.com/storage/docs/access-control/iam-roles)
 - [Minimize external access to the network](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
 - Appropriately use kernel hardening tools such as [AppArmor](https://gitlab.com/apparmor), [seccomp](https://kubernetes.io/docs/tutorials/clusters/seccomp/)
