@@ -1,6 +1,5 @@
 # Certified Kubernetes Security Specialist Exam Preparation Guide
 
-[![HitCount](http://hits.dwyl.com/Evalle/CKS.svg)](http://hits.dwyl.com/Evalle/CKS)
 [![Check Markdown links](https://github.com/Evalle/CKS/actions/workflows/action.yml/badge.svg)](https://github.com/Evalle/CKS/actions/workflows/action.yml)
 
 This guide is intended to be a point of knowledge for everyone who wants to pass Certified Kubernetes Security Specialist (CKS) Exam. 
